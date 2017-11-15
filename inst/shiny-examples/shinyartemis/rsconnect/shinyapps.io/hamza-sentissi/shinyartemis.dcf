@@ -1,0 +1,12 @@
+name: shinyartemis
+title: shinyartemis
+username:
+account: hamza-sentissi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235752
+bundleId: 1076873
+url: https://hamza-sentissi.shinyapps.io/shinyartemis/
+when: 1510759403.94913
+asMultiple: FALSE
+asStatic: FALSE
